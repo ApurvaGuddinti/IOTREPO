@@ -1,6 +1,10 @@
 package central;
 
 import java.awt.EventQueue;
+//dhdth
+//fdhbdhb
+//fdherhretg
+//getheh
 
 import javax.swing.JFrame;
 import javax.swing.JLabel;
