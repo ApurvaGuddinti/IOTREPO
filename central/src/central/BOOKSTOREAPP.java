@@ -1,7 +1,6 @@
 package central;
 
 import java.awt.EventQueue;
-//hjtukj
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JTextField;
